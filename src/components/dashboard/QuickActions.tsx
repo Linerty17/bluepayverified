@@ -13,15 +13,15 @@ const QuickActions = () => {
   const navigate = useNavigate();
   
   const handleJoinTelegram = () => {
-    window.open("https://t.me/officialbluepay2025", "_blank");
+    window.open("https://t.me/bluepayuser_telegram_channel", "_blank");
   };
   
   const handleJoinWhatsapp = () => {
-    window.open("https://chat.whatsapp.com/DrJYdBP5siSA0L96wQsuLX", "_blank");
+    window.open("https://chat.whatsapp.com/DT3uTdziZx48a9Wj8h9j2I", "_blank");
   };
   
   const handleWatch = () => {
-    window.open("https://t.me/officialbluepay2025", "_blank");
+    window.open("https://t.me/bluepayuser_telegram_channel", "_blank");
   };
 
   return (
