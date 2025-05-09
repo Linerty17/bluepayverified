@@ -17,7 +17,7 @@ const QuickActions = () => {
   };
   
   const handleJoinWhatsapp = () => {
-    window.open("https://chat.whatsapp.com/DT3uTdziZx48a9Wj8h9j2I", "_blank");
+    window.open("https://chat.whatsapp.com/G0d4WyDvcqK9YD5RW2IlyT", "_blank");
   };
   
   const handleWatch = () => {
