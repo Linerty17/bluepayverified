@@ -21,7 +21,7 @@ const QuickActions = () => {
   };
   
   const handleWatch = () => {
-    window.open("https://youtube.com/shorts/uQENAYuFqwc?si=P5zUj8Cw-PfyBh5t", "_blank");
+    window.open("https://youtu.be/ki3mnWGYd70?si=IKAt88Mi9TvjwJ5w", "_blank");
   };
 
   return (
